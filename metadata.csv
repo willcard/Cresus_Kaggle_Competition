@@ -1,0 +1,48 @@
+id,(n° de dossier transformé en n° de ligne lors de l'export)
+STRUCTURE PRESCRIPTRICE,Quel partenaire a transmi le dossier
+PLATEFORME,Plateforme CRESUS d'accompagnement (Sociale ou Bancaire)
+year,année de création du dossier
+month,mois de création du dossier
+region,région du bénéficiaire
+ETAT,du dossier ( ouvert / fermé / en cours….)
+ORIENTATION,solution envisagée pour rétablir la situation
+SUIVI,détail  d'information (choix limité en fonction de l'état et l'orientation à partir de 2015)
+NATURE_DIFF,Raison de l'orientation par le partenaire de Crésus
+age,du bénéficiaire
+tranche_age,(pour graphique)
+situation,du foyer
+adulte_foyer,pour calcul Unité Consommation (UC)
+pers_a_charge,nombre de personnes à charge
+PROF,Profession
+LOGEMENT,locataire / Proprio / gratuit
+REVENUS,Revenus du foyer
+cat_rev,catégorisation
+CHARGES,Charges Fixes
+cat_charges,catégorisation pour tableaux
+CREDITS,Mensualités de Crédit
+cat_credit,catégorisation pour graphiques
+IMPAYES_DEBUT,Utilisé par Plateforme sociale pour accompagnement et calcul de plan apurement
+cat_impayes,catégorisation pour graphiques
+RAV_ouverture,Reste à Vivre calculé (Revenus - CHARGES - CREDITS  = RAV) (pour alimentation / loisirs / habillement)
+cat_RAV_ouverture,catégorisation pour graphiques
+RAV_UC,RAV par unité de consommation
+cat_RAV_UC,catégorisation pour graphiques
+nb_credits,nombre crédits
+CRD,Capital restant dû
+gain_mediation,gain sur les mensualités de crédit lors d'une médiation
+nb_amort,nbre crédits amortissable
+crd_amort,CRD amortissable
+nb_renouv,nbre crédits renouvelable
+crd_renouv,CRD renouvelables
+nb_immo,nbre crédits immobilier
+crd_immo,CRD immobilier
+nb_rac,nombre Rachat de Crédit
+crd_rac,CRD Rachat crédit
+nb_autres,"nbre autres (prêts particuliers, dettes….)"
+crd_autres,CRD autres
+nb_decouvert,decouvert bancaire
+crd_decouvert,montant découvert
+moy_eco_jour,moyenne économique journaliere (calcul CCAS)
+cat_moy_eco_jour,catégorisation 
+TOTAL_RV,Nombre total de RV entre bénéficiaire de l'accompagnement et Crésus
+duree_jours,durée en jours entre 1er et dernier RV(dossiers clos)
